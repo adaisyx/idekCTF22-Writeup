@@ -71,7 +71,7 @@ And sure enough at ```https://twitter.com/UThE_TS/lists``` we discover the follo
 
 What we've been given is essentially a url suffix, and we know the prefix is related to ```german chaos pad```, whatever that means. Oh and did we struggle finding what it meant!
 1. Googling "german chaos pad" brings up suggestions of "kaoss pad", an electronic music tool. Spoiler alert: this is a red herring.
-2. The word "pad" and the sharing of varied information suggests we could be looking for an online notepad website. In fact, Googling the url suffix (in quotes) suggests its the typical format for the back half of etherpad servers.
+2. The word "pad" and the sharing of varied information suggests we could be looking for an online notepad website. In fact, Googling the url suffix ``` "/ep/pad/view" ``` suggests its the typical format for the back half of etherpad servers.
 
 
 We know we're looking for an etherpad. But how do we find it? We tried all sorts of typical formats for etherpad servers "german.chaospad.org/..." / "pad.chaos.de/..." / "german-chaos-pad.net/..." ...
@@ -178,5 +178,13 @@ Both ' "xxiv olympiske sommerleker" johan jorgen' and ' "xxiv olympiske sommerle
 
 The flag is: **idek{OLM-08741}**
 
-**Thoughts**: I still think it's always good to do the standard image-related checks when being provided with a photo like that, though it was the wrong path in this specific case.
+**Thoughts**: I still think it's always good to do the standard image-related checks when being provided with a photo like that, in case of hidden information, though it was the wrong path to take in this specific case.
 
+  &nbsp;  
+
+## KEY TAKEAWAYS
+More ways to gain information:
+1. Start with google dorking
+2. Use different search engines
+3. Look through the categories in github repositories (wiki, actions, pull requests, etc)
+4. Waybackmachine can help find all archived URLS for a given URL prefix
