@@ -14,7 +14,8 @@ Here I will present our solutions for each of the images, the specific technique
 - Road Chevron Identification: https://www.geohints.com/Chevrons
 - Bollard Identification: https://geohints.com/Bollards
 - General Geoguessr Guide: https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
-- Reverse Image Search: Yandex.com
+- More Geoguessr tips: https://geotips.net/
+- Reverse Image Search: www.yandex.com
 
   &nbsp;  
 ### 1. Brazil (Rio de Janeiro)
@@ -171,7 +172,7 @@ The main methods we used can be summarised as follows:
 1. **Direct Geoguessr Techniques:** employ Geoguessr tools on one specific observation (a 'dead giveaway') to directly find the country.
 2. **Indirect Geoguessr Techniques:** employ Geoguessr tools on several observations, to slowly narrow down the list of possible countries.
 3. **Guess and Check:** use Google Maps streetview to see if the landscape/vibe of a country in question matches the image
-4. **Contextual/ Meta Knowledge:** exploit knowledge about how these images are generated. We know all the images are from google maps, so, for instance, we can look at the camera quality/ camera type/ date of the streetview image capture/ etc. for clues.
+4. **Contextual/ Meta Knowledge:** exploit knowledge about how these images are generated. We know all the images are from google maps streetview, so, for instance, we can look at the camera quality/ camera type/ date of the streetview image capture/ etc. for clues + any country that doesn't have streetview can be eliminated immediately
 5. **Reverse Image Search**
 6. (Meta-game)
 
