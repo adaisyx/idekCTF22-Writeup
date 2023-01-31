@@ -18,20 +18,24 @@ Here I will present our solutions for each of the images, the specific technique
 - Reverse Image Search: www.yandex.com
 
   &nbsp;  
-### 1. Brazil (Rio de Janeiro)
+### 1. Brazil (Rio de Janeiro | -22.9452929,-43.1633488)
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/1.png"  width="500" height="300">
 
 - Landmark: Christ the Redeemer statue on the top of the hill in the center
 
-### 2. Russia (Moscow)
+### 2. Russia (Moscow | 55.7534093,37.6210811)
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/2.png"  width="500" height="300">
 
 - Landmark: Red Square, Moscow
 
-### 3. Estonia (Tallin)
+### 3. Estonia (Tallin | 59.4437727,24.7542789)
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/3.png"  width="500" height="300">
 
 - Text: The street sign reads "Kalamaja", which is a neighbourhood in Tallin, Estonia
+
+  &nbsp;  
+
+Fun Fact: The concrete structure in the center background is Tallinna Linnahall, an amphitheatre built for the 1980 Moscow Olympics. The glass building on the right is the Tallink spa and conference hotel, with a gian "Tallink" sign on the roof which was intentionally cut off in the photo. Would've been a dead giveaway.
 
 ### 4. Australia
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/4.png"  width="500" height="300">
@@ -50,12 +54,15 @@ Here I will present our solutions for each of the images, the specific technique
 
 This one was tricky. Swahili would have been a dead giveaway, but we couldn't recognise it, mistook it for Arabic then started searching through all countries that speak Arabic. But we couldn't find a country that had a "Third St." road. It was **purely accidental** that we came across Kenya, because, while searching "Turkey Third St." in Google maps, we accidentally clicked on a suggestion for "Turkey Carpets: Third St., Nairobi, Kenya", and discovered it looked exactly the same as the image. A christmas Miracle!
 
-### 6. Iceland
+### 6. Iceland ( Þjóðvegur | 65.3511738,-15.3966272)
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/6.png"  width="500" height="300">
 
 - Bollard: yellow bollard with a white tip is characteristic of Iceland
 - Landscape: this sort of gray, flat, open and empty landscape is also quite characteristic of ICeland
 
+  &nbsp;  
+
+Fun fact: found the exact location by accident, just tried a bunch of random roads with a left bend in iceland. The mountains in the background are likely from Vatnajökull National Park.
 
 
 ### 7. Mongolia
