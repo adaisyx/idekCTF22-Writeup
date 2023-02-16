@@ -81,7 +81,7 @@ Fun fact: found the exact location by accident, just tried a bunch of random roa
 
 In all honesty, We guessed this could be a country starting with E by meta-gaming it... so far, the letters spell "Break_m" so the next letter was likely to be either 'y' or a vowel.
 
-### 9. Monaco
+### 9. Monaco (43.7371226 | 7.4328427)
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/9.png"  width="500" height="300">
 
 - Landscape/ Meta Knowledge: The swimmer with the camera, tall buildings against a hilly backdrop and a dock full of yachts - Every half-decent geoguessr player can identify monaco from a mile away
@@ -150,7 +150,7 @@ Using the chevron as a guide, we listed all countries that used the chevron desi
 
 Using reverse image search, we ascertained that countries like Bulgaria and Serbia seemed to have similar landscape and architecture. We then went to Google Maps to investigate these countries. When looking at Bulgaria, we found that in its western remote areas, there were a lot of places that looked similar to the photo. On top of that, the latest Google Maps streetview images in these areas were taken in March 2012. The kicker? It was also snowing in those areas in March 2012. So Bulgaria wasn't a definite guess but it was a very strong, convincing possibility.
 
-### 16. Albania
+### 16. Albania (40.7873086 | 20.2856359)
 <img src="https://github.com/adaisyx/idekCTF22-Writeup/blob/main/NMPZ/16.png"  width="500" height="300">
 
 - Chevron: White and black, with the arrow being white. Only used in certain countries.
